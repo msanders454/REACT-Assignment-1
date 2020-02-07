@@ -1,0 +1,23 @@
+div {
+    display: block;
+    text-align: center;
+}
+
+h1{
+  font-size: 30px;
+}
+ul {
+    list-style-type: none;
+}
+
+main {
+    display: block;
+}
+
+address a {
+    font-size: 15px;
+}
+
+img{
+  height: 300px;
+}
